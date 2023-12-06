@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dell Alienware M16 R1 I9",
+        "descripcion": "i9-13900HX | 16GB | 1TB sólido | Geforce RTX 4080  12GB |",
+        "imagen": "../Img/dell/01.jpg",
+        "precio":  4934250,
+        "stock": 10,
+        "categoria": "dell"
+    },
+    {
+        "id": 2,
+        "nombre": "Dell Alienware M16 R1 I9",
+        "descripcion": "i9-13900HX | 16GB | 2TB sólido | Geforce RTX 4080  12GB |",
+        "imagen": "../Img/dell/02.jpg",
+        "precio":  5117000,
+        "stock": 18,
+        "categoria": "dell"
+    },
+    {
+        "id": 3,
+        "tnombre": "Dell Alienware M16 R1 I9",
+        "descripcion": "i9-13900HX | 16GB | 4TB sólido | Geforce RTX 4080  12GB |",
+        "imagen": "../Img/dell/03.jpg",
+        "precio":  5436815,
+        "stock": 20,
+        "categoria": "dell"
+    },
+    {
+        "id": 4,
+        "nombre": "Dell Alienware M16 R1 I9",
+        "descripcion": "i9-13900HX | 32GB | 1TB sólido | Geforce RTX 4080  12GB |",
+        "imagen": "../Img/dell/01.jpg",
+        "precio":  5071315,
+        "stock": 20,
+        "categoria": "dell"
+    },
+    {
+        "id": 5,
+        "nombre": "ASUS Rog Strix G1713PI",
+        "descripcion": "Rysen 9 7845HX | 16GB | 1TB sólido | Geforce RTX 4070  8GB |",
+        "imagen": "../Img/asus/01.jpg",
+        "precio": 3426562,
+        "stock": 10,
+        "categoria": "asus"
+    },
+    {
+        "id": 6,
+        "nombre": "ASUS Rog Strix G1713PI",
+        "descripcion": "Rysen 9 7845HX | 16GB | 2TB sólido | Geforce RTX 4070  8GB |",
+        "imagen": "../Img/asus/02.jpg",
+        "precio": 3609315,
+        "stock": 20,
+        "categoria": "asus"
+    },
+    {
+        "id": 7,
+        "nombre": "ASUS Rog Strix G1713PI",
+        "descripcion": "Rysen 9 7845HX | 16GB | 4TB sólido | Geforce RTX 4070  8GB |",
+        "imagen": "../Img/asus/03.jpg",
+        "precio": 3929125,
+        "stock": 15,
+        "categoria": "asus"
+    },
+    {
+        "id": 8,
+        "nombre": "ASUS ROG Zephyrus Duo",
+        "descripcion": "Ryzen 9 5980HX | 32GB | GeForce RTX 3080 16GB | 2 x 1TB sólido|",
+        "imagen": "../Img/asus/04.jpg",
+        "precio": 3369180,
+        "stock": 11,
+        "categoria": "asus"
+    },
+    {
+        "id": 9,
+        "nombre": "MSI GS77 Stealth",
+        "descripcion": "i7-12700H | 32GB | GeForce RTX 3070 Ti 8GB | 1TB solido",
+        "imagen": "../Img/msi/01.png",
+        "precio": 2942275,
+        "stock": 10,
+        "categoria": "msi"
+    },
+    {
+        "id": 10,
+        "nombre": "MSI GS77 Stealth",
+        "descripcion": "i7-12700H | 32GB | GeForce RTX 3070 Ti 8GB | 2TB solido",
+        "imagen": "../Img/msi/02.jpg",
+        "precio": 3131604,
+        "stock": 17,
+        "categoria": "msi"
+    },
+    {
+        "id": 11,
+        "nombre": "MSI GS77 Stealth",
+        "descripcion": "i7-12700H | 64GB | GeForce RTX 3070 Ti 8GB | 1TB solido",
+        "imagen": "../Img/msi/03.jpg",
+        "precio":  3257701,
+        "stock": 12,
+        "categoria": "msi"
+    },
+    {
+        "id": 12,
+        "nombre": "MSI GS77 Stealth",
+        "descripcion": "i7-12700H | 64GB | GeForce RTX 3070 Ti 8GB | 2TB solido",
+        "imagen": "../Img/msi/01.png",
+        "precio":  3446665,
+        "stock": 9,
+        "categoria": "msi"
+    }   
+]
